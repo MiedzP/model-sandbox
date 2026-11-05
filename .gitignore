@@ -1,0 +1,15 @@
+# Runtime output and local state
+runs/
+slots/
+__pycache__/
+*.pyc
+par_*.txt
+
+# Local-only red-team probes (not published)
+examples/redteam/
+examples/redteam2/
+examples/redteam3/
+examples/pid1check/
+examples/flood/
+examples/flood_partial/
+examples/burst/
